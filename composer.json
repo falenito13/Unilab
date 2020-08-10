@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "app\\": "."
+    },
+    "description": "composer init falenito13/UnilabTask1",
+    "name": "falenito13",
+    "require": {}
+  }
+}
